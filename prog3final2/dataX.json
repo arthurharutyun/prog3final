@@ -1,0 +1,604 @@
+{
+  "articles": [
+    {
+      "title": "Bodak Yellow (Money Moves)",
+      "Name": "Cardi B",
+      "lastweek": "Last Week: 1",
+      "place": "1"
+    },
+    {
+      "title": "Rockstar",
+      "Name": "",
+      "lastweek": "Last Week: 2",
+      "place": "2"
+    },
+    {
+      "title": "Look What You Made Me Do",
+      "Name": "Taylor Swift",
+      "lastweek": "Last Week: 3",
+      "place": "3"
+    },
+    {
+      "title": "1-800-273-8255",
+      "Name": "",
+      "lastweek": "Last Week: 4",
+      "place": "4"
+    },
+    {
+      "title": "Despacito",
+      "Name": "",
+      "lastweek": "Last Week: 5",
+      "place": "5"
+    },
+    {
+      "title": "Unforgettable",
+      "Name": "",
+      "lastweek": "Last Week: 6",
+      "place": "6"
+    },
+    {
+      "title": "Feel It Still",
+      "Name": "Portugal. The Man",
+      "lastweek": "Last Week: 10",
+      "place": "7"
+    },
+    {
+      "title": "Believer",
+      "Name": "Imagine Dragons",
+      "lastweek": "Last Week: 7",
+      "place": "8"
+    },
+    {
+      "title": "Rake It Up",
+      "Name": "",
+      "lastweek": "Last Week: 8",
+      "place": "9"
+    },
+    {
+      "title": "Sorry Not Sorry",
+      "Name": "Demi Lovato",
+      "lastweek": "Last Week: 15",
+      "place": "10"
+    },
+    {
+      "title": "Attention",
+      "Name": "Charlie Puth",
+      "lastweek": "Last Week: 9",
+      "place": "11"
+    },
+    {
+      "title": "Strip That Down",
+      "Name": "",
+      "lastweek": "Last Week: 13",
+      "place": "12"
+    },
+    {
+      "title": "Slow Hands",
+      "Name": "Niall Horan",
+      "lastweek": "Last Week: 11",
+      "place": "13"
+    },
+    {
+      "title": "Too Good At Goodbyes",
+      "Name": "Sam Smith",
+      "lastweek": "Last Week: 16",
+      "place": "14"
+    },
+    {
+      "title": "Bank Account",
+      "Name": "21 Savage",
+      "lastweek": "Last Week: 17",
+      "place": "15"
+    },
+    {
+      "title": "There's Nothing Holdin' Me Back",
+      "Name": "Shawn Mendes",
+      "lastweek": "Last Week: 14",
+      "place": "16"
+    },
+    {
+      "title": "Thunder",
+      "Name": "Imagine Dragons",
+      "lastweek": "Last Week: 30",
+      "place": "17"
+    },
+    {
+      "title": "Wild Thoughts",
+      "Name": "",
+      "lastweek": "Last Week: 12",
+      "place": "18"
+    },
+    {
+      "title": "Shape Of You",
+      "Name": "Ed Sheeran",
+      "lastweek": "Last Week: 18",
+      "place": "19"
+    },
+    {
+      "title": "What Lovers Do",
+      "Name": "",
+      "lastweek": "Last Week: 23",
+      "place": "20"
+    },
+    {
+      "title": "Mi Gente",
+      "Name": "",
+      "lastweek": "Last Week: 19",
+      "place": "21"
+    },
+    {
+      "title": "That's What I Like",
+      "Name": "Bruno Mars",
+      "lastweek": "Last Week: 20",
+      "place": "22"
+    },
+    {
+      "title": "I Get The Bag",
+      "Name": "",
+      "lastweek": "Last Week: 22",
+      "place": "23"
+    },
+    {
+      "title": "Praying",
+      "Name": "Kesha",
+      "lastweek": "Last Week: 28",
+      "place": "24"
+    },
+    {
+      "title": "Young Dumb & Broke",
+      "Name": "Khalid",
+      "lastweek": "Last Week: 27",
+      "place": "25"
+    },
+    {
+      "title": "Body Like A Back Road",
+      "Name": "Sam Hunt",
+      "lastweek": "Last Week: 24",
+      "place": "26"
+    },
+    {
+      "title": "XO TOUR Llif3",
+      "Name": "Lil Uzi Vert",
+      "lastweek": "Last Week: 21",
+      "place": "27"
+    },
+    {
+      "title": "Humble.",
+      "Name": "Kendrick Lamar",
+      "lastweek": "Last Week: 25",
+      "place": "28"
+    },
+    {
+      "title": "What About Us",
+      "Name": "P!nk",
+      "lastweek": "Last Week: 26",
+      "place": "29"
+    },
+    {
+      "title": "Something Just Like This",
+      "Name": "",
+      "lastweek": "Last Week: 29",
+      "place": "30"
+    },
+    {
+      "title": "What Ifs",
+      "Name": "",
+      "lastweek": "Last Week: 32",
+      "place": "31"
+    },
+    {
+      "title": "Love Galore",
+      "Name": "",
+      "lastweek": "Last Week: 33",
+      "place": "32"
+    },
+    {
+      "title": "Location",
+      "Name": "Khalid",
+      "lastweek": "Last Week: 31",
+      "place": "33"
+    },
+    {
+      "title": "Say You Won't Let Go",
+      "Name": "James Arthur",
+      "lastweek": "Last Week: 37",
+      "place": "34"
+    },
+    {
+      "title": "Congratulations",
+      "Name": "",
+      "lastweek": "Last Week: 36",
+      "place": "35"
+    },
+    {
+      "title": "Friends",
+      "Name": "",
+      "lastweek": "Last Week: 35",
+      "place": "36"
+    },
+    {
+      "title": "Small Town Boy",
+      "Name": "Dustin Lynch",
+      "lastweek": "Last Week: 40",
+      "place": "37"
+    },
+    {
+      "title": "Loyalty.",
+      "Name": "",
+      "lastweek": "Last Week: 41",
+      "place": "38"
+    },
+    {
+      "title": "...Ready For It?",
+      "Name": "Taylor Swift",
+      "lastweek": "Last Week: 34",
+      "place": "39"
+    },
+    {
+      "title": "When It Rains It Pours",
+      "Name": "Luke Combs",
+      "lastweek": "Last Week: 44",
+      "place": "40"
+    },
+    {
+      "title": "No Promises",
+      "Name": "",
+      "lastweek": "Last Week: 45",
+      "place": "41"
+    },
+    {
+      "title": "I'm The One",
+      "Name": "",
+      "lastweek": "Last Week: 39",
+      "place": "42"
+    },
+    {
+      "title": "Redbone",
+      "Name": "Childish Gambino",
+      "lastweek": "Last Week: 38",
+      "place": "43"
+    },
+    {
+      "title": "Havana",
+      "Name": "",
+      "lastweek": "Last Week: 64",
+      "place": "44"
+    },
+    {
+      "title": "Crew",
+      "Name": "",
+      "lastweek": "Last Week: 46",
+      "place": "45"
+    },
+    {
+      "title": "Do Re Mi",
+      "Name": "Blackbear",
+      "lastweek": "Last Week: 51",
+      "place": "46"
+    },
+    {
+      "title": "Stay",
+      "Name": "",
+      "lastweek": "Last Week: 42",
+      "place": "47"
+    },
+    {
+      "title": "New Rules",
+      "Name": "Dua Lipa",
+      "lastweek": "Last Week: 53",
+      "place": "48"
+    },
+    {
+      "title": "Glorious",
+      "Name": "",
+      "lastweek": "Last Week: 62",
+      "place": "49"
+    },
+    {
+      "title": "The Weekend",
+      "Name": "SZA",
+      "lastweek": "Last Week: 52",
+      "place": "50"
+    },
+    {
+      "title": "Unforgettable",
+      "Name": "Thomas Rhett",
+      "lastweek": "Last Week: 49",
+      "place": "51"
+    },
+    {
+      "title": "Gucci Gang",
+      "Name": "Lil Pump",
+      "lastweek": "Last Week: 71",
+      "place": "52"
+    },
+    {
+      "title": "Feels",
+      "Name": "",
+      "lastweek": "Last Week: 43",
+      "place": "53"
+    },
+    {
+      "title": "Butterfly Effect",
+      "Name": "Travis Scott",
+      "lastweek": "Last Week: 57",
+      "place": "54"
+    },
+    {
+      "title": "Silence",
+      "Name": "Marshmello Featuring Khalid",
+      "lastweek": "Last Week: 56",
+      "place": "55"
+    },
+    {
+      "title": "Heartache On The Dance Floor",
+      "Name": "Jon Pardi",
+      "lastweek": "Last Week: 47",
+      "place": "56"
+    },
+    {
+      "title": "Bad At Love",
+      "Name": "Halsey",
+      "lastweek": "Last Week: 61",
+      "place": "57"
+    },
+    {
+      "title": "Perfect",
+      "Name": "Ed Sheeran",
+      "lastweek": "Last Week: 89",
+      "place": "58"
+    },
+    {
+      "title": "The Race",
+      "Name": "Tay-K",
+      "lastweek": "Last Week: 54",
+      "place": "59"
+    },
+    {
+      "title": "The Way Life Goes",
+      "Name": "Lil Uzi Vert",
+      "lastweek": "Last Week: 58",
+      "place": "60"
+    },
+    {
+      "title": "Roll In Peace",
+      "Name": "",
+      "lastweek": "Last Week: 59",
+      "place": "61"
+    },
+    {
+      "title": "Transportin'",
+      "Name": "Kodak Black",
+      "lastweek": "Last Week: 55",
+      "place": "62"
+    },
+    {
+      "title": "All The Pretty Girls",
+      "Name": "Kenny Chesney",
+      "lastweek": "Last Week: 68",
+      "place": "63"
+    },
+    {
+      "title": "Jocelyn Flores",
+      "Name": "XXXTentacion",
+      "lastweek": "Last Week: 50",
+      "place": "64"
+    },
+    {
+      "title": "I Fall Apart",
+      "Name": "Post Malone",
+      "lastweek": "Last Week: --",
+      "place": "65"
+    },
+    {
+      "title": "It's A Vibe",
+      "Name": "",
+      "lastweek": "Last Week: 60",
+      "place": "66"
+    },
+    {
+      "title": "DNA",
+      "Name": "BTS",
+      "lastweek": "Last Week: 85",
+      "place": "67"
+    },
+    {
+      "title": "F**k Love",
+      "Name": "",
+      "lastweek": "Last Week: 65",
+      "place": "68"
+    },
+    {
+      "title": "Dusk Till Dawn",
+      "Name": "",
+      "lastweek": "Last Week: 63",
+      "place": "69"
+    },
+    {
+      "title": "Good Old Days",
+      "Name": "",
+      "lastweek": "Last Week: --",
+      "place": "70"
+    },
+    {
+      "title": "Greatest Love Story",
+      "Name": "LANCO",
+      "lastweek": "Last Week: 75",
+      "place": "71"
+    },
+    {
+      "title": "Every Little Thing",
+      "Name": "Carly Pearce",
+      "lastweek": "Last Week: 76",
+      "place": "72"
+    },
+    {
+      "title": "They Don't Know",
+      "Name": "Jason Aldean",
+      "lastweek": "Last Week: 74",
+      "place": "73"
+    },
+    {
+      "title": "Love So Soft",
+      "Name": "Kelly Clarkson",
+      "lastweek": "Last Week: 81",
+      "place": "74"
+    },
+    {
+      "title": "Pills And Automobiles",
+      "Name": "",
+      "lastweek": "Last Week: 79",
+      "place": "75"
+    },
+    {
+      "title": "Escapate Conmigo",
+      "Name": "",
+      "lastweek": "Last Week: 70",
+      "place": "76"
+    },
+    {
+      "title": "B.E.D.",
+      "Name": "Jacquees",
+      "lastweek": "Last Week: 73",
+      "place": "77"
+    },
+    {
+      "title": "No Limit",
+      "Name": "",
+      "lastweek": "Last Week: 97",
+      "place": "78"
+    },
+    {
+      "title": "Sauce It Up",
+      "Name": "Lil Uzi Vert",
+      "lastweek": "Last Week: 69",
+      "place": "79"
+    },
+    {
+      "title": "Felices Los 4",
+      "Name": "Maluma",
+      "lastweek": "Last Week: 72",
+      "place": "80"
+    },
+    {
+      "title": "Fix A Drink",
+      "Name": "Chris Janson",
+      "lastweek": "Last Week: 94",
+      "place": "81"
+    },
+    {
+      "title": "Light It Up",
+      "Name": "Luke Bryan",
+      "lastweek": "Last Week: 86",
+      "place": "82"
+    },
+    {
+      "title": "I'll Name The Dogs",
+      "Name": "Blake Shelton",
+      "lastweek": "Last Week: 88",
+      "place": "83"
+    },
+    {
+      "title": "More Girls Like You",
+      "Name": "Kip Moore",
+      "lastweek": "Last Week: 83",
+      "place": "84"
+    },
+    {
+      "title": "No Such Thing As A Broken Heart",
+      "Name": "Old Dominion",
+      "lastweek": "Last Week: 77",
+      "place": "85"
+    },
+    {
+      "title": "I Could Use A Love Song",
+      "Name": "Maren Morris",
+      "lastweek": "Last Week: 90",
+      "place": "86"
+    },
+    {
+      "title": "Relationship",
+      "Name": "",
+      "lastweek": "Last Week: 82",
+      "place": "87"
+    },
+    {
+      "title": "Back To You",
+      "Name": "Louis Tomlinson Featuring Bebe Rexha & Digital Farm Animals",
+      "lastweek": "Last Week: 78",
+      "place": "88"
+    },
+    {
+      "title": "It Ain't My Fault",
+      "Name": "Brothers Osborne",
+      "lastweek": "Last Week: 91",
+      "place": "89"
+    },
+    {
+      "title": "Whatever You Need",
+      "Name": "",
+      "lastweek": "Last Week: 80",
+      "place": "90"
+    },
+    {
+      "title": "Questions",
+      "Name": "Chris Brown",
+      "lastweek": "Last Week: 84",
+      "place": "91"
+    },
+    {
+      "title": "Curve",
+      "Name": "",
+      "lastweek": "Last Week: 67",
+      "place": "92"
+    },
+    {
+      "title": "Do I Make You Wanna",
+      "Name": "Billy Currington",
+      "lastweek": "Last Week: 95",
+      "place": "93"
+    },
+    {
+      "title": "Losing Sleep",
+      "Name": "Chris Young",
+      "lastweek": "Last Week: --",
+      "place": "94"
+    },
+    {
+      "title": "Like I Loved You",
+      "Name": "Brett Young",
+      "lastweek": "Last Week: --",
+      "place": "95"
+    },
+    {
+      "title": "Fetish",
+      "Name": "",
+      "lastweek": "Last Week: 87",
+      "place": "96"
+    },
+    {
+      "title": "Round Here Buzz",
+      "Name": "Eric Church",
+      "lastweek": "Last Week: --",
+      "place": "97"
+    },
+    {
+      "title": "Plain Jane",
+      "Name": "A$AP Ferg",
+      "lastweek": "Last Week: --",
+      "place": "98"
+    },
+    {
+      "title": "Wish I Knew You",
+      "Name": "The Revivalists",
+      "lastweek": "Last Week: 99",
+      "place": "99"
+    },
+    {
+      "title": "Go Flex",
+      "Name": "Post Malone",
+      "lastweek": "Last Week: --",
+      "place": "100"
+    }
+  ]
+}
